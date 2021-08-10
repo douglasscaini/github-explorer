@@ -24,6 +24,10 @@ section.repository-list {
         margin-top: 16px;
         text-decoration: none;
         color: #8657e6;
+
+        &:hover {
+          transform: scale(0.97, 0.97);
+        }
       }
     }
   }
