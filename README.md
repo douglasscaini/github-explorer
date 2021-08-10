@@ -13,7 +13,7 @@
 
 ## :speech_balloon: Sobre <a name="about"></a>
 
-> Projeto do capítulo 1 da trilha React do Ignite.
+> O GitHub Explorer exibe os repositórios públicos da minha conta :D
 
 <br />
 <table>
@@ -37,11 +37,22 @@ $ yarn dev
 
 ## :triangular_flag_on_post: Desafio <a name="challenge"></a>
 
-> Aprender os principais conceitos para desenvolvimento de uma aplicação completa.
+> Aprender os fundamentos do React:
+>
+> - Babel;
+> - Webpack;
+> - React-DOM;
+> - Componentes;
+> - Propriedades;
+> - Estado;
+> - Imutabilidade.
+> - useState e useEffect (Hooks).
 
 ## :heavy_check_mark: Tecnologias <a name="technologies"></a>
 
+- [React](https://pt-br.reactjs.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ---
 
